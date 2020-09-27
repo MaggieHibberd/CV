@@ -40,7 +40,7 @@ BA Media Studies (2:1)
 •	Additional modules include Sociology
 
 
-#### Further experiance
+#### Further experience
 Portfolio Consultant
 Direct Line Group
 March 2019 - Dec 2019
