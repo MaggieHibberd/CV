@@ -53,4 +53,4 @@ Established in 2016, Welcome Presents aims to bridge the divide between refugees
 
 Integration is a multi-dimensional process that takes time, especially in London, where locals are more likely to read about refugees than engage with the people behind the stories.
 
-Welcome Presents is a move to address this uncertainty, lending a hand to step over the divide.
+Welcome Presents is a move to address this uncertainty, lending a hand to step over the divide. welcomepresents.com
