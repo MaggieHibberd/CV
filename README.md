@@ -59,7 +59,7 @@ July 2011 - July 2014
 
 ##  Interests
 Co-Founder Welcome Presents
-Sep 2016 – Present
+Sep 2016 – Present day
 London, United Kingdom
 Established in 2016, Welcome Presents aims to bridge the divide between refugees, asylum seekers and the wider UK public, and seeks to have a positive impact on the lives of those displaced and struggling in London. Newcomers to this city are often marginalised socially.
 
