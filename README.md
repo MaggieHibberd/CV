@@ -1,6 +1,6 @@
 ## Maggie Hibberd
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Effective Project Management professional of over 10 years, Co-founder Welcome Presents project which aims to bridge the divide between refugees, and the wider UK public. Now turning a keen interest in software development into the next exciting phase of my career.
 
 ## Projects
 
@@ -11,54 +11,46 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+Presently studying at Makers Academy, enrolled in the developers bootcamp studying fundamentals such as agile development, pair programming, and test-driven development (TDD). Keen to use the skills acquired   during my years working in Project Management as well as building my programming skills.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Working in project management across various industries from banking and aviation including working from initial project phase to implementation as BAU in what was then the newly formed Digital Rectifications at Lloyds Banking Group. Activities included working across teams to access and analyze data, assisting with calculations for redress payments, cross-checking redress payments; organising customer communications and dealing with further queries or complaints should they arise.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Other key area of expertise includes stakeholder management, liaising with key stakeholders and vendors to negotiate performance and operational agreements. Risk Management, Compliance and Audit actions combined with management and oversight of MI reporting. Building effective relationships peers in the supply chain organisations to achieve joint goals. As well as operating as the SPOC for multiple Workstreams.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Maker Academy Sept 2020 – present day)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Presently enrolled in the highly selective 12 week intensive coding bootcamp focusing on the following:
 
-#### Your University / College (start_date to end_date)
+•	Test Driven Development
+•	Pair programming and agile working
+•	Object oriented programming & software design
+•	Full stack web development
+•	Curiosity and a hungry passion for code
+•	Independent learner and problem-solver
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+
+#### University of East London (September 2002 to July 2005)
+
+BA Media Studies (2:1)
+
+•	Additional modules include Sociology
+
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+##  Interests
+Co-Founder Welcome Presents
+Sep 2016 – Present
+Employment Duration4 yrs 1 mo
+LocationLondon, United Kingdom
+Established in 2016, Welcome Presents aims to bridge the divide between refugees, asylum seekers and the wider UK public, and seeks to have a positive impact on the lives of those displaced and struggling in London. Newcomers to this city are often marginalised socially.
 
-Any cool stuff that makes you a super part of a software development team
+Integration is a multi-dimensional process that takes time, especially in London, where locals are more likely to read about refugees than engage with the people behind the stories.
+
+Welcome Presents is a move to address this uncertainty, lending a hand to step over the divide.
