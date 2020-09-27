@@ -61,8 +61,6 @@ July 2011 - July 2014
 Co-Founder Welcome Presents
 Sep 2016 – Present day
 London, United Kingdom
-Established in 2016, Welcome Presents aims to bridge the divide between refugees, asylum seekers and the wider UK public, and seeks to have a positive impact on the lives of those displaced and struggling in London. Newcomers to this city are often marginalised socially
-
-Integration is a multi-dimensional process that takes time, especially in London, where locals are more likely to read about refugees than engage with the people behind the stories
+Established in 2016, Welcome Presents aims to bridge the divide between refugees, asylum seekers and the wider UK public, and seeks to have a positive impact on the lives of those displaced and struggling in London. With newcomers to this city are often marginalised socially, integration is a multi-dimensional process that takes time, especially in London, where locals are more likely to read about refugees than engage with the people behind the stories
 
 Welcome Presents is a move to address this uncertainty, lending a hand to step over the divide. https://www.welcomepresents.com/
