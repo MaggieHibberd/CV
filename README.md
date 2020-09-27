@@ -17,7 +17,7 @@ Presently studying at Makers Academy, enrolled in the developers bootcamp studyi
 
 Working in project management across various industries from banking and aviation including working from initial project phase to implementation as BAU in what was then the newly formed Digital Rectifications at Lloyds Banking Group. Activities included working across teams to access and analyze data, assisting with calculations for redress payments, cross-checking redress payments; organising customer communications and dealing with further queries or complaints should they arise.
 
-Other key area of expertise includes stakeholder management, liaising with key stakeholders and vendors to negotiate performance and operational agreements. Risk Management, Compliance and Audit actions combined with management and oversight of MI reporting. Building effective relationships peers in the supply chain organisations to achieve joint goals. As well as operating as the SPOC for multiple Workstreams.
+Other key areas of expertise include stakeholder management, liaising with key stakeholders and vendors to negotiate performance and operational agreements. Risk Management, Compliance and Audit actions combined with management and oversight of MI reporting. Building effective relationships peers in the supply chain organisations to achieve joint goals. As well as operating as the SPOC for multiple Workstreams.
 
 ## Education
 
@@ -55,14 +55,14 @@ Project Management Officer
 British Airports Authority
 July 2011 - July 2014
 •	Managed governance and updates for the Programme teams  •	Consolidating key milestones into a single Programme level plan to support external reporting.
-•	Working closely with the stakeholder manager to ensure continued communication is maintained between groups including monitoring the stakeholder strategy plan.
+•	Working closely with the stakeholder manager to ensure continued communication is maintained between groups including monitoring the stakeholder strategy plan
 
 ##  Interests
 Co-Founder Welcome Presents
 Sep 2016 – Present day
 London, United Kingdom
-Established in 2016, Welcome Presents aims to bridge the divide between refugees, asylum seekers and the wider UK public, and seeks to have a positive impact on the lives of those displaced and struggling in London. Newcomers to this city are often marginalised socially.
+Established in 2016, Welcome Presents aims to bridge the divide between refugees, asylum seekers and the wider UK public, and seeks to have a positive impact on the lives of those displaced and struggling in London. Newcomers to this city are often marginalised socially
 
-Integration is a multi-dimensional process that takes time, especially in London, where locals are more likely to read about refugees than engage with the people behind the stories.
+Integration is a multi-dimensional process that takes time, especially in London, where locals are more likely to read about refugees than engage with the people behind the stories
 
 Welcome Presents is a move to address this uncertainty, lending a hand to step over the divide. https://www.welcomepresents.com/
