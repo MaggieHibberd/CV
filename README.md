@@ -40,15 +40,27 @@ BA Media Studies (2:1)
 •	Additional modules include Sociology
 
 
-#### Any other qualifications
+#### Further experiance
+Portfolio Consultant
+Direct Line Group
+March 2019 - Dec 2019
+•	Creating an Executive Steering group and joint Programme steering group packs  •	Completing weekly reports and producing the weekly dashboard •	Liaising with key stakeholders and vendors to negotiate performance and operational agreements, ensuring the project was delivered effectively, on time and within budget
 
-That in some arguable way make you a better software developer or well-rounded person
+PMO - Digital Rectifications
+Lloyds Banking Group  
+July 2014 - Dec 2018
+•	Created Risk reports, findings logs, and divisional reports to enhance understanding and inform findings to executive forum • Assisted in the creation of Proactive Customers Approach and Treatments methodology •	Engaging with a diverse group of Stakeholders/Senior Management to influence direction of rectifications to meet business milestones
+
+Project Management Officer
+British Airports Authority
+July 2011 - July 2014
+•	Managed governance and updates for the Programme teams  •	Consolidating key milestones into a single Programme level plan to support external reporting.
+•	Working closely with the stakeholder manager to ensure continued communication is maintained between groups including monitoring the stakeholder strategy plan.
 
 ##  Interests
 Co-Founder Welcome Presents
 Sep 2016 – Present
-Employment Duration4 yrs 1 mo
-LocationLondon, United Kingdom
+London, United Kingdom
 Established in 2016, Welcome Presents aims to bridge the divide between refugees, asylum seekers and the wider UK public, and seeks to have a positive impact on the lives of those displaced and struggling in London. Newcomers to this city are often marginalised socially.
 
 Integration is a multi-dimensional process that takes time, especially in London, where locals are more likely to read about refugees than engage with the people behind the stories.
